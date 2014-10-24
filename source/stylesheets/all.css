@@ -1,0 +1,12 @@
+/*
+ *= require poole
+ *= require normalize
+*/
+
+
+.welcome h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #069;
+  font-size: 4rem;
+}
